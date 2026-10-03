@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="docs/img/hero.png" alt="FATESCROLL 易数引擎 · 三步推演" width="100%">
+<img src="docs/img/landing.png" alt="FATESCROLL · 知天命 明得失" width="100%">
+
+*↑ fatescroll.ai 完整版主页 · 本仓库是同源排盘引擎的 Agent 技能形态 ↓*
+
+<img src="docs/img/hero.png" alt="易数引擎 · 三步推演" width="100%">
 
 **八字 · 紫微斗数 · 周易卦象 —— 装进任意 Agent 的命理推演技能**
 
