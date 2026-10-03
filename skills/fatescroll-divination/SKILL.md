@@ -1,5 +1,7 @@
 ---
 name: fatescroll-divination
+slug: fatescroll-divination
+displayName: FATESCROLL 命理推演
 description: 八字/四柱排盘与命理推演（Fatescroll 同源引擎）。当用户提到八字、四柱、排盘、命理、日主、五行、大运、流年、年运、命书、运书、日运、紫微斗数、合婚、月老、卦象、本卦、断卦、宜忌，或询问运势相关问题时使用。排盘由确定性脚本精确计算（真节气分界/农历转换/起运天数均由程序完成，禁止凭记忆推算），推演解读由宿主大模型（Qoder、WorkBuddy 等任意支持 SKILL.md 的 Agent）完成，零 API、零外部密钥。
 ---
 
