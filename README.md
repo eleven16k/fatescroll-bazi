@@ -8,7 +8,7 @@
 
 **八字 · 紫微斗数 · 周易卦象 —— 装进任意 Agent 的命理推演技能**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 ![零 API Key](https://img.shields.io/badge/AI%20Key-零依赖-a63a24)
 ![双运行时](https://img.shields.io/badge/Node%20%7C%20Python-双运行时-8a6d34)
 
@@ -82,7 +82,7 @@ skills/fatescroll-divination/
 ## 说明
 
 - 本技能内容属传统文化娱乐/文化参考，不构成任何专业建议；请相信科学、理性看待；
-- License: MIT（内置第三方库 lunar_python / iztro 均为 MIT）。
+- License: Apache-2.0（内置第三方库 lunar_python / iztro 均为 MIT）。
 
 ---
 
@@ -94,4 +94,4 @@ A [SKILL.md](https://agentskills.io) skill for Chinese metaphysics (BaZi · Zi W
 
 **Install**: WorkBuddy → Skills → upload `fatescroll-divination-skill.zip`; or copy `skills/fatescroll-divination` into your agent's skills directory (`~/.agents/skills/`). Just ask "帮我看个八字" (read my BaZi chart) to trigger.
 
-**Trust**: the engine is shared with the [FATESCROLL](https://fatescroll.ai) production app and guarded by locked-vector regression tests (e.g. `1990-01-01 → 己巳/丙子/丙寅/戊子`). Crisis topics stop the reading and show a helpline. MIT licensed.
+**Trust**: the engine is shared with the [FATESCROLL](https://fatescroll.ai) production app and guarded by locked-vector regression tests (e.g. `1990-01-01 → 己巳/丙子/丙寅/戊子`). Crisis topics stop the reading and show a helpline. Apache-2.0 licensed.
